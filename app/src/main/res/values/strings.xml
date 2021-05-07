@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MVP</string>
+    <string name="imageProduct">TODO</string>
+    <string name="nameProduct">nameProduct</string>
+    <string name="description">Description</string>
 </resources>
